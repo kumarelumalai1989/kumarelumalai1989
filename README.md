@@ -1,13 +1,44 @@
 [![MasterHead](https://geeks4learning.com/wp-content/uploads/2020/12/Product-Images-Software-Development-2.png)](https://kumarelumalai1989.io)
-<h1 align="center">Hi 👋, I'm Kumar</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+
+💡 "Learning never exhausts the mind; it only expands opportunities."
+
+<h1 align="center">Hi 👋 I'm Kumar
+Senior Full Stack Engineer (.NET) | AI Engineer in Progress | Azure | System Design | DSA</h1>
+<h3 align="center">Senior Full Stack Engineer | 13+ Years of Experience | .NET | Azure | AI Engineering Enthusiast | Building Enterprise AI Applications | Open to Product-Based & Remote Opportunities</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarelumalai1989&label=Profile%20views&color=0e75b6&style=flat" alt="kumarelumalai1989" /> </p>
 
-- 🌱 I’m currently learning **React, Azure, and AWS**
+- 🚀 Currently transitioning from Enterprise .NET Development to AI Engineering by building GenAI, RAG and Agentic AI projects.
 
-- 💬 Ask me about **.Net Core, Asp .Net MVC**
+## 👨‍💻 About Me
+
+- 💼 Senior Full Stack Developer with 13+ years of experience
+- 🔥 Specializing in .NET Core, ASP.NET MVC, SQL Server and Angular
+- ☁️ Learning Azure, AWS and Cloud Architecture
+- 🤖 Building AI applications using Python, LangChain, LLMs and RAG
+- 📚 Solving DSA problems daily
+- 🎯 Goal: Product-Based Company / Remote AI Engineer
+
+## 🤖 AI Journey
+
+Currently Building
+
+✔ RAG Systems
+✔ Multi-Agent Applications
+✔ LangChain Projects
+✔ Vector Search
+✔ MCP Servers
+✔ Enterprise AI Solutions
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| Enterprise AI Learning | AI Learning Journey | Python, LangChain |
+| DSA Solutions | C# |
+| AI Resume Analyzer | Resume Ranking | OpenAI |
+| RAG Chatbot | Question Answering | Azure OpenAI |
 
 - 📫 How to reach me **kumarelumalai1989@gmail.com**
 
@@ -18,7 +49,52 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+Backend
+.NET Core
+ASP.NET MVC
+Web API
+
+Frontend
+Angular
+React
+JavaScript
+
+Database
+SQL Server
+Redis
+
+Cloud
+Azure
+AWS
+
+AI
+Python
+LangChain
+OpenAI
+FAISS
+Vector Database
+
+DevOps
+Docker
+GitHub Actions
+Azure DevOps
+
+## GitHub Activity
+GitHub Streak
+Contribution Graph
+Activity Graph
+
+## 📖 Currently Learning
+✅ Azure
+✅ React
+✅ Python
+✅ LangChain
+✅ Agentic AI
+✅ RAG
+✅ MCP
+✅ System Design
+✅ DSA
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarelumalai1989&show_icons=true&locale=en&layout=compact" alt="kumarelumalai1989" /></p>
 
