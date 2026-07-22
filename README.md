@@ -1,5 +1,3 @@
-[![MasterHead](https://geeks4learning.com/wp-content/uploads/2020/12/Product-Images-Software-Development-2.png)](https://kumarelumalai1989.io)
-
 💡 "Learning never exhausts the mind; it only expands opportunities."
 
 <h1 align="center">Hi 👋 I'm Kumar
