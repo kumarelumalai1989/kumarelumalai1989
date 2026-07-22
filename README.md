@@ -80,9 +80,7 @@ GitHub Actions
 Azure DevOps
 
 ## GitHub Activity
-[GitHub Streak
-Contribution Graph
-Activity Graph](https://streak-stats.demolab.com/)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kumarelumalai1989%40gmail.com&theme=gruvbox-duo&hide_border=true)](https://git.io/streak-stats)
 
 ## 📖 Currently Learning
 ✅ Azure
