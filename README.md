@@ -5,7 +5,6 @@
 <h1 align="center">Hi 👋 I'm Kumar
 Senior Full Stack Engineer (.NET) | AI Engineer in Progress | Azure | System Design | DSA</h1>
 <h3 align="center">Senior Full Stack Engineer | 13+ Years of Experience | AI Engineering Enthusiast | Building Enterprise AI Applications | Open to Product-Based & Remote Opportunities</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarelumalai1989&label=Profile%20views&color=0e75b6&style=flat" alt="kumarelumalai1989" /> </p>
 
